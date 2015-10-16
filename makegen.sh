@@ -1,4 +1,10 @@
 #!/bin/bash
+## 
+## Made by Glastis
+## 
+## Last update Fri Oct 16 19:32:31 2015 glastis
+##
+
 CFLAG="-Wall -Wextra -Werror -ansi -pedantic"
 
 ## If an old makefile exist
